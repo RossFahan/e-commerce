@@ -22,7 +22,11 @@ This is a backend application for an e-commerce platform. It uses Node.js and th
 ## Video Demo
 [FULL Video Demo Link](https://drive.google.com/file/d/1gCpwPnUF8iDP4Ct_LPLH42Fszz1QR9hY/view?usp=share_link)
 
-![VidGif](./Assets/demo.gif)
+
+## Example Gifs
+![VidGif1](./Assets/01.gif)
+![VidGif1](./Assets/02.gif)
+![VidGif1](./Assets/03.gif)
 
 ## Installation 
 
