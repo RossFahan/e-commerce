@@ -6,7 +6,6 @@
 | ------------- |:-------------:| 
 | Javascript | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)     |    
 | Node.js | [https://nodejs.org/en/docs](https://nodejs.org/en/docs)     |  
-| Inquirer.js | [https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)     |  
 | MySQL | [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)     | 
 | Sequelize | [https://sequelize.org/docs/](https://sequelize.org/docs/)     |
 | npm mysql2 | [https://www.npmjs.com/package/mysql2](https://www.npmjs.com/package/mysql2)     |
